@@ -1,7 +1,6 @@
 👋🏼 Hi, i'm @johnmmason!  
-🎓 I'm studying Computational Engineering at UT Austin.  
+👔 I work as a business analyst at Capital One.  
 📊 I'm passionate about data science and analytics.  
-👔 After graduation, I will be joining Capital One full-time as a Business Analyst.  
 📬 You can [connect with me on LinkedIn](https://www.linkedin.com/in/jmatthewmason/).
 
 <!---
